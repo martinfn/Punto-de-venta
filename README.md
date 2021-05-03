@@ -1,2 +1,0 @@
-# Punto-de-venta
-Elaboración de punto de venta web para restaurante desarrollando los distintos módulos solicitados por el cliente como lo es productos, compras, caja, reportes, dashboard del sistema  y administración del sistema. Mediante la arquitectura MVC en el framework CodeIgniter4 con la plantilla  bootstrap admin, php como backend así como Ajax y javascript para algunas funcionalidades  del sistema.
